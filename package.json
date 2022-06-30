@@ -1,0 +1,24 @@
+{
+  "name": "anurag-js",
+  "version": "1.0.0",
+  "description": "Calculation of different shapes",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/anuragmukherjee2001/Shapes-Calculation.git"
+  },
+  "keywords": [
+    "Shapes",
+    "Area",
+    "Perimeter"
+  ],
+  "author": "Anurag Mukherjee",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/anuragmukherjee2001/Shapes-Calculation/issues"
+  },
+  "homepage": "https://github.com/anuragmukherjee2001/Shapes-Calculation#readme"
+}
